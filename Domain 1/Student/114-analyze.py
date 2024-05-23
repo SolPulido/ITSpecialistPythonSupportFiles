@@ -3,3 +3,4 @@ print(type(True))
 print(type("20000"))
 print(type(2.22))
 print(type(20000))
+#print statements that dispay types for various pieces of data 
